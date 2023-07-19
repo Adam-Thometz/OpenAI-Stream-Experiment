@@ -1,0 +1,4 @@
+.Completion-prompt-form {
+  display: flex;
+  flex-direction: column;
+}
